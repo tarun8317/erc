@@ -33,9 +33,9 @@ module.exports = {
   },
   networks: {
     sepolia: {
-      url: "https://sepolia.infura.io/v3/be1e26a5d9134163b7507cb6dc0dcaf1",
+      url: "YOUR SEPOLIA KEY URL",
       accounts:
-        ["7ef69b2d31c1fceab54ce3652ee5215f64b0850b5bfd3631023a72a9f05474d3"],
+        ["YOUR ACCOUNT KEY"],
     },
     // matic: {
     //   url: "https://polygon-mumbai.g.alchemy.com/v2/4zQ-GOllMHIp-eW_sarQkbGA5yB4vmwp",
@@ -54,7 +54,7 @@ module.exports = {
   },
   etherscan: {
     apiKey: {
-      sepolia: "2WA3995HHBNABVA4T9Y2IUAEVTRFBGD5V9",
+      sepolia: "YOUR API KEY",
     }
   },
   // etherscan: {
